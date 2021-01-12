@@ -7,3 +7,4 @@ We set up adversarial models for this task. Our contributions are in three folds
 + Proposed and implemented a category-level discriminator. Explored its potential advantage in category clustering.
 + Implemented an ensemble model to achieve state-of-the-art performance on GTA5-Cityscape dataset adaptation.
 
+For more details, please refer to the poster and the project report. Here is a qualitative comparison on several models:
