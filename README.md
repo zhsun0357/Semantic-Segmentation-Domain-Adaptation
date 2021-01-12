@@ -8,4 +8,4 @@ We set up adversarial models for this task. Our contributions are in three folds
 + Implemented an ensemble model to achieve state-of-the-art performance on GTA5-Cityscape dataset adaptation.
 
 For more details, please refer to the poster and the project report. Here is a qualitative comparison on several models:
-![image](/image/qualitative_compare.png)
+![image](/qualitative_compare.png)
